@@ -1,0 +1,24 @@
+[submodule "AXI4-Burst-SDIO-Reader"]
+	path = AXI4-Burst-SDIO-Reader
+	url = git@github.com:tz61/AXI4-Burst-SDIO-Reader.git
+[submodule "2DRenderer"]
+	path = 2DRenderer
+	url = git@github.com:tz61/2DRenderer.git
+[submodule "ECE385Final-Z7-SDK"]
+	path = ECE385Final-Z7-SDK
+	url = git@github.com:tz61/ECE385Final-Z7-SDK.git
+[submodule "FbReader"]
+	path = FbReader
+	url = git@github.com:tz61/FbReader.git
+[submodule "ECE385FA24_S7"]
+	path = ECE385FA24_S7
+	url = git@github.com:tz61/ECE385FA24_S7.git
+[submodule "ECE385FA24_Z7"]
+	path = ECE385FA24_Z7
+	url = git@github.com:tz61/ECE385FA24_Z7.git
+[submodule "ECE385FA24_scripts"]
+	path = ECE385FA24_scripts
+	url = git@github.com:tz61/ECE385FA24_scripts.git
+[submodule "ECE385FA24-PCB-ChampaignBoard"]
+	path = ECE385FA24-PCB-ChampaignBoard
+	url = git@github.com:tz61/ECE385FA24-PCB-ChampaignBoard.git
